@@ -1,0 +1,12 @@
+# Ejecutables compilados
+benchmark_c
+*.exe
+*.out
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Archivos de entorno local
+.venv/
+venv/
